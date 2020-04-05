@@ -1,0 +1,3 @@
+[submodule "sem2-ay1920/docker_kubernetes"]
+	path = sem2-ay1920/docker_kubernetes
+	url = git@github.com:heyhujiao/speechlab-aims-kaldi-aks.git
